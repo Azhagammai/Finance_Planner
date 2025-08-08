@@ -1578,4 +1578,9 @@ export const Category = ({ category }: CategoryProps) => {
 
 </details>
 
+--- 
+## 📸 Snapshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c43a436-282d-4925-a6ac-f0b8cb2446b4" />
+
+
 
